@@ -1,10 +1,10 @@
 package action
 
 import (
-	"github.com/Masterminds/glide/cfg"
-	"github.com/Masterminds/glide/gb"
-	"github.com/Masterminds/glide/msg"
-	gpath "github.com/Masterminds/glide/path"
+	"github.com/srcclr/glide/cfg"
+	"github.com/srcclr/glide/gb"
+	"github.com/srcclr/glide/msg"
+	gpath "github.com/srcclr/glide/path"
 )
 
 // ImportGB imports GB dependencies into the present glide config.

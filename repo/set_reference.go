@@ -3,9 +3,9 @@ package repo
 import (
 	"sync"
 
-	"github.com/Masterminds/glide/cache"
-	"github.com/Masterminds/glide/cfg"
-	"github.com/Masterminds/glide/msg"
+	"github.com/srcclr/glide/cache"
+	"github.com/srcclr/glide/cfg"
+	"github.com/srcclr/glide/msg"
 	"github.com/codegangsta/cli"
 )
 

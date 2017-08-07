@@ -9,9 +9,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Masterminds/glide/cfg"
-	"github.com/Masterminds/glide/msg"
-	gpath "github.com/Masterminds/glide/path"
+	"github.com/srcclr/glide/cfg"
+	"github.com/srcclr/glide/msg"
+	gpath "github.com/srcclr/glide/path"
 )
 
 // Has indicates whether a Godeps file exists.

@@ -7,10 +7,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Masterminds/glide/cache"
-	"github.com/Masterminds/glide/cfg"
-	"github.com/Masterminds/glide/msg"
-	gpath "github.com/Masterminds/glide/path"
+	"github.com/srcclr/glide/cache"
+	"github.com/srcclr/glide/cfg"
+	"github.com/srcclr/glide/msg"
+	gpath "github.com/srcclr/glide/path"
 	"github.com/Masterminds/semver"
 	"github.com/Masterminds/vcs"
 )
